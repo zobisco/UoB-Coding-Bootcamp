@@ -1,0 +1,11 @@
+h1, h3 {
+    color: darkgreen;
+}
+
+#exampleTable {
+    text-align: left;
+}
+
+th {
+    color: green;
+}

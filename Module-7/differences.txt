@@ -1,0 +1,20 @@
+There were quite a few mistakes to fix:
+
+BrokenCode HTML file:
+
+- In general, there were quite a few indentation issues
+- The div tags were also in the wrong order
+
+Specifically, I found the following errors:
+
+- Line 19: Missing <h1> tag
+- Lines 27-9: <h4> tags should have been <p> tags
+- Lines 40-3: <h4> tags should have been <p> tags
+- Lines 50: Missing angled brackets and alt text for image
+- Lines 72-6: Missing <li> tags in list
+- Lines 88-90: Incorrectly named buttons / ids (e.g. id="textGreen">Orange)
+
+errors.js file:
+
+- Line 6: The array was missing the correct number of quotation marks
+- Lines 20 & 25: The word "click" was missing quotation marks
